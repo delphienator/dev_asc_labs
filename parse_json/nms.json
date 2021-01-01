@@ -1,0 +1,49 @@
+{
+    "code": 200,
+    "result": {
+        "entityVersion": 13966,
+        "name": "admin",
+        "cpeDomain": {
+            "entityVersion": 12,
+            "folderRoleType": 9,
+            "name": "All CPE Groups",
+            "_id": 5,
+            "flags": 8,
+            "type": 9
+        },
+        "login": "admin",
+        "locale": "en",
+        "enabled": true,
+        "hidden": false,
+        "editable": false,
+        "idleTime": 0,
+        "mustChangePassword": false,
+        "_id": 154,
+        "modify_own_password": false,
+        "roleId": {
+            "entityVersion": 0,
+            "name": "Admin",
+            "cpeDomain": {
+                "entityVersion": 12,
+                "folderRoleType": 9,
+                "name": "All CPE Groups",
+                "_id": 5,
+                "flags": 8,
+                "type": 9
+            },
+            "hidden": false,
+            "editable": false,
+            "_id": 152,
+            "type": 151
+        },
+        "loggedIn": true,
+        "role": {
+            "entityVersion": 0,
+            "name": "Admin",
+            "hidden": false,
+            "editable": true,
+            "_id": 152
+        },
+        "type": 153
+    }
+}
